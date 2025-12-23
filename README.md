@@ -47,8 +47,8 @@ After adding the capacitor:
 
 ## Notes
 
-* This fix was tested with a 100µF capacitor
-* Capacitors between 47µF and 220µF should also work
+* This fix was tested with a 10µF capacitor
+* Capacitors between 47µF and 100µF should also work
 
 ## Credits
 
